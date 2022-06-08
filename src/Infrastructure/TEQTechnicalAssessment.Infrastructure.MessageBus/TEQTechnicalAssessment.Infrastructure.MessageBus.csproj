@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\TEQTechnicalAssessment.Domain\TEQTechnicalAssessment.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
